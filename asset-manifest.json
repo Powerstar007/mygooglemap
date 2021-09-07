@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/mygooglemap/static/css/main.a617e044.chunk.css",
+    "main.js": "/mygooglemap/static/js/main.2dca9324.chunk.js",
+    "main.js.map": "/mygooglemap/static/js/main.2dca9324.chunk.js.map",
+    "runtime-main.js": "/mygooglemap/static/js/runtime-main.f9e60834.js",
+    "runtime-main.js.map": "/mygooglemap/static/js/runtime-main.f9e60834.js.map",
+    "static/css/2.786ae0dd.chunk.css": "/mygooglemap/static/css/2.786ae0dd.chunk.css",
+    "static/js/2.567b32c9.chunk.js": "/mygooglemap/static/js/2.567b32c9.chunk.js",
+    "static/js/2.567b32c9.chunk.js.map": "/mygooglemap/static/js/2.567b32c9.chunk.js.map",
+    "static/js/3.c0ecf215.chunk.js": "/mygooglemap/static/js/3.c0ecf215.chunk.js",
+    "static/js/3.c0ecf215.chunk.js.map": "/mygooglemap/static/js/3.c0ecf215.chunk.js.map",
+    "index.html": "/mygooglemap/index.html",
+    "static/css/2.786ae0dd.chunk.css.map": "/mygooglemap/static/css/2.786ae0dd.chunk.css.map",
+    "static/css/main.a617e044.chunk.css.map": "/mygooglemap/static/css/main.a617e044.chunk.css.map",
+    "static/js/2.567b32c9.chunk.js.LICENSE.txt": "/mygooglemap/static/js/2.567b32c9.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/mygooglemap/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f9e60834.js",
+    "static/css/2.786ae0dd.chunk.css",
+    "static/js/2.567b32c9.chunk.js",
+    "static/css/main.a617e044.chunk.css",
+    "static/js/main.2dca9324.chunk.js"
+  ]
+}
